@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flower Haven</string>
+    <string name="about">\tThe is Flower Haven, home of the best flower infused products of all time.\n\tPlease feel free to go through our page and have a feel of some of our products.\n\tYou may also review us on our social media outlets and contact on the various channels.\n\tDo have a wonderful time.\n\tCheers!!</string>
+    <string name="hours_operations">\tHours Of Operation:\n\n\t 9am to 6pm on Mondays to Fridays\n\n\t 9am to 8pm on Saturdays\n\n\t1pm to 8pm on Sundays</string>
+    <string name="review">\tYou can review us and share your experience on our social media outlet below:\n\n\t\t\t\t\t\tFlower Haven \n\n\t\t\t\t\t\tFlowhaven \n\n\t\t\t\t\t\tFlowH \n\n\t\t\t\t\t\tfHaven</string>
+    <string name="contactus">\tYou may reach out to us on the details below:\n\n\t\t\t\t\t\t FlowerHaven@gmail.com \n\n\t\t\t\t\t\t888 11101 99922\n\n\t\t\t\t\t\t1, off social road,Floral Avenue\n\n\t\t\t\t\t\twww.flowerhaven.org</string>
+    <string name="flowimage1">flowimage1</string>
+    <string name="flowimage2">flowimage2</string>
+    <string name="motto">Decor your world...</string>
+</resources>
